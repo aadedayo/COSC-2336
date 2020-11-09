@@ -18,3 +18,13 @@ I have either normal comments or Javadoc in most of them, in order to explain ho
   * File Name - palindrome.java
   
   This class creates a recursive methood that checks if the given string is palindrome or not, and a main method test it.
+  
+  # Project Name - Linked List
+  The purpose of this program is to Implement and test an ordered linked list of integer nodes using references
+  
+  * File Name - IntegerNode.java
+  
+  This class create the implementation of Integer node.
+  * File Name - Implementation.java
+  
+  This class implement insert, delete, and display methods for an ordered linked list. It also implement the main method to test the program. 
