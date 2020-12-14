@@ -31,6 +31,18 @@ I have either normal comments or Javadoc in most of them, in order to explain ho
   
   # Project Name - Stack Implementation
   The purpose of this program is to convert an infix expression to a postfix expression using stack implementation
+  
   * File Name - InfixandPrefixexpression.java
   
   This class consist of code implementation to convert an infix expression to a postfix expression using a stack to implement. It also consist of the main method to test the project.
+  
+  # Project Name - Binary Search Tree
+  The purpose of this program is to create a binary search tree (BST). The tree nodes store integers, which will search/retrieve, as well as insert, recursively. It will also implement tree inorder traversal algorithm. 
+  
+  * File Name - TreeNode.java
+  
+  This class consist of code implementation of the TreeNode.
+  
+  * File Name - BinarySearchTree.java
+  
+  This class consist of code implementation of the BST. This code implementation includes: search( ), insert( ), and inorderTraverse( ) methods. It also consist of the main method to test the project.
