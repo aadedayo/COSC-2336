@@ -28,3 +28,9 @@ I have either normal comments or Javadoc in most of them, in order to explain ho
   * File Name - Implementation.java
   
   This class implement insert, delete, and display methods for an ordered linked list. It also implement the main method to test the program. 
+  
+  # Project Name - Stack Implementation
+  The purpose of this program is to convert an infix expression to a postfix expression using stack implementation
+  * File Name - InfixandPrefixexpression.java
+  
+  This class consist of code implementation to convert an infix expression to a postfix expression using a stack to implement. It also consist of the main method to test the project.
